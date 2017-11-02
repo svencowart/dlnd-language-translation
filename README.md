@@ -1,4 +1,4 @@
-# DLND Your First Neural Network
+# DLND Language Translation
 Project 3 Submission for the Udacity Deep Learning Nanodegree
 
 ## Get Started
